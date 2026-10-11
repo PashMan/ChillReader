@@ -1,0 +1,6 @@
+{
+  "name": "ChillReader",
+  "description": "Удобная читалка манги и манхвы в темном стиле с новыми главами от переводчиков и скроллом жестом головы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
